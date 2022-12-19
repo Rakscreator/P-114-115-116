@@ -1,7 +1,7 @@
 rightEyex = 0
 rightEyey = 0
 function preload(){
-    img = loadImage("https://postimg.cc/rDV0R377")
+    img = loadImage("sunglasses IMG.png")
 }
 function setup(){
     canvas = createCanvas(640,480)
